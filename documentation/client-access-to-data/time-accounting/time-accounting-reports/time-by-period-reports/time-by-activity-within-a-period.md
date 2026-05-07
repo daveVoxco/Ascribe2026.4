@@ -1,0 +1,22 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/V4pJG7Rv7yabqyiVt2OZ/documentation/client-access-to-data/time-accounting/time-accounting-reports/time-by-period-reports/time-by-activity-within-a-period
+---
+
+# Time by Activity Within a Period
+
+_Navigate: Administrator/Select Time Accounting/Select Time by Period/Right-click user/Select Time by Activity_
+
+This report displays time accounting information for activities during the specified period. Information for currently open sessions is not contained in the report.
+
+The page has this format:
+
+<table><thead><tr><th width="207.99993896484375" align="center" valign="top">Top of the Page</th><th valign="top">Description</th></tr></thead><tbody><tr><td align="center" valign="top"><p><img src="https://static.goascribe.com/Help/Excel_export_shipped_studies.jpg" alt=""></p><p>Excel Export</p></td><td valign="top">Click the icon to export the data to Excel</td></tr><tr><td align="center" valign="top"><p><img src="https://static.goascribe.com/Help/Refresh_july2025.jpg" alt=""></p></td><td valign="top">Refreshes the page</td></tr><tr><td align="center" valign="top">Date Range</td><td valign="top"><p>There are two ways to select dates. You can use the drop-down list next to the Use local time box to select today, this week, this month, this year, last week, last month, or last year. When you select one of these options, the dates change to reflect your selection, and the report displays.</p><p> </p><p>Another way to select dates is to click Custom Range. A calendar displays. Use the arrows next to the calendar heading to scroll through the months. Or click the heading to see a list of months. Click the heading a second time to see a list of years. Use the arrows to scroll through the months or years.</p></td></tr><tr><td align="center" valign="top">Use Local Time</td><td valign="top">Time tracking uses your local time rather than UTC time.</td></tr><tr><td align="center" valign="top">Account</td><td valign="top">The Account field lists the current account. If you are an SSO user, the drop-down lists the accounts to which you have access. You can view one or multiple accounts with this field.</td></tr><tr><td align="center" valign="top">Search</td><td valign="top">Use the Search field to filter the page.</td></tr></tbody></table>
+
+<table><thead><tr><th width="213.333251953125" align="center" valign="top">Grid</th><th valign="top">Description</th></tr></thead><tbody><tr><td align="center" valign="top"><p><img src="https://static.goascribe.com/Help/Table_manager_icon.png" alt=""></p><p>Table Manager</p></td><td valign="top">The Table Manager allows you to customize the page, by choosing columns and row options. It opens when you click the hamburger icon. It closes when you move the mouse outside of it.</td></tr><tr><td align="center" valign="top">Account</td><td valign="top">The account where the study is located</td></tr><tr><td align="center" valign="top">Activity</td><td valign="top">The name of the activity. Activity names generally correspond to the page location in Ascribe. The report also contains a “Not tracked” item, which lists the difference between session hours and tracked hours for the specified period. This is the user session time that is not captured as tracked time.</td></tr><tr><td align="center" valign="top">Tracked Hours</td><td valign="top">The total tracked hours for this associate in the specified period.</td></tr><tr><td align="center" valign="top">hh:mm:ss</td><td valign="top">The tracked hours also display in hours:minutes:seconds format. When tracked hours exceed 24, the number of days also displays. For example, 46.50 hours would display as 1 + 22:30:00, which means 1 day, 22 hours, and 30 minutes.</td></tr><tr><td align="center" valign="top">Responses</td><td valign="top">The number of responses coded in this activity</td></tr><tr><td align="center" valign="top">Responses Per Hour</td><td valign="top">The number of responses divided by tracked hours</td></tr><tr><td align="center" valign="top">Total</td><td valign="top">The last row has a total for tracked hours, hh:mm:ss, and responses coded. The responses per hour total is the average of responses coded divided by tracked hours.</td></tr></tbody></table>
+
+
+
+<br>

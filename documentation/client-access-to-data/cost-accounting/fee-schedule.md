@@ -1,0 +1,20 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/V4pJG7Rv7yabqyiVt2OZ/documentation/client-access-to-data/cost-accounting/fee-schedule
+---
+
+# Fee Schedule
+
+_Navigate: Administrator/Select Transactions/Select Fee Schedule_
+
+This page shows transactions by media type and account licenses.
+
+The page has this format:
+
+<table><thead><tr><th width="247.3333740234375" align="center" valign="top">Top of the Page</th><th valign="top">Description</th></tr></thead><tbody><tr><td align="center" valign="top"><p><img src="https://static.goascribe.com/Help/Excel_export_shipped_studies.jpg" alt=""></p><p>Excel Export</p></td><td valign="top">Click the icon to export the data to Excel</td></tr><tr><td align="center" valign="top">Account</td><td valign="top">The Account field lists the current account. If you are an SSO user, the drop-down lists the accounts to which you have access. You can view one or multiple accounts with this field.</td></tr></tbody></table>
+
+<table><thead><tr><th width="249.333251953125" align="center" valign="top">Grid</th><th valign="top">Description</th></tr></thead><tbody><tr><td align="center" valign="top"><p><img src="https://static.goascribe.com/Help/Table_manager_icon.png" alt=""></p><p>Table Manager</p></td><td valign="top">The Table Manager allows you to customize the page, by choosing columns and row options. It opens when you click the hamburger icon. It closes when you move the mouse outside of it.</td></tr><tr><td align="center" valign="top">Account</td><td valign="top">Account that is selected</td></tr><tr><td align="center" valign="top"><strong>Transactions</strong></td><td valign="top"></td></tr><tr><td align="center" valign="top">Audio</td><td valign="top">Number of transactions charged when coding audio verbatim</td></tr><tr><td align="center" valign="top">Image</td><td valign="top">Number of transactions charged when coding image verbatim</td></tr><tr><td align="center" valign="top">Numeric</td><td valign="top">Number of transactions charged when coding numeric verbatim; numeric responses are those which contain only the digits 0 to 9, spaces, a period, or the hyphen character.</td></tr><tr><td align="center" valign="top">Text</td><td valign="top">Number of transactions charged when coding text verbatim.</td></tr><tr><td align="center" valign="top"><strong>Account Licenses</strong></td><td valign="top"></td></tr><tr><td align="center" valign="top">Allow Duplicates</td><td valign="top">When selected, duplicate code output values are allowed in a codebook.</td></tr><tr><td align="center" valign="top">Ascribe Coder</td><td valign="top">When selected, the account has access to Ascribe Coder.</td></tr><tr><td align="center" valign="top">Automatic Translations</td><td valign="top">When selected, users can use automatic translation processes.</td></tr><tr><td align="center" valign="top">CX Inspector Analyze</td><td valign="top">When selected, the account has access to CX Inspector.</td></tr><tr><td align="center" valign="top">CX Inspector Translate</td><td valign="top">When selected, CX Inspector can translate verbatim.</td></tr><tr><td align="center" valign="top">Illustrator</td><td valign="top">When selected, the account has access to Illustrator.</td></tr><tr><td align="center" valign="top">Transcriptions</td><td valign="top">When selected, the account has access to the Transcriptions page.</td></tr><tr><td align="center" valign="top">Translations</td><td valign="top">When selected, the account has access to the Translations page.</td></tr><tr><td align="center" valign="top">Verbatim Quality Report</td><td valign="top">When selected, users have access to the Verbatim Quality Report.</td></tr><tr><td align="center" valign="top">CX Inspector with Theme Extractor</td><td valign="top">When selected, the account has access to CX Inspector with Theme Extractor.</td></tr><tr><td align="center" valign="top">AI Coder</td><td valign="top">When selected, the account has access to AI Coder.</td></tr></tbody></table>
+
+&#x20;
